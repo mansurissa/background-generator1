@@ -1,0 +1,26 @@
+body{
+    font: 'Raleway', sans-serif;
+    color: black;
+    text-align-last: center;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    top: 16%;
+    background: linear-gradient(to right, orange, red);
+
+}
+h1{
+    font: 600 3.5em;
+    color: black;
+    text-align-last: center;
+    text-transform: uppercase;
+    letter-spacing: .3em;
+    width: 100%;
+}
+h3{
+    font: 900 1em;
+    color: black;
+    text-align-last: center;
+    text-transform: none;
+    letter-spacing: .1em;
+    width: 100%;
+}
